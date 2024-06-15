@@ -10,4 +10,3 @@ cd archscripty
 mv gyattie.tar.xz ~/.config/
 cd ~/.config/
 tar -xf --overwrite gyattie.tar.xz
-
