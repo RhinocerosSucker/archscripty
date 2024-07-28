@@ -15,4 +15,7 @@ mv gyattie.tar.xz ~/.config/
 cd ~/.config/
 sudo tar -xf --overwrite gyattie.tar.xz
 mv -f .bashrc ~/
-
+cd ~/Downloads/
+sudo mv -f sddm.conf /etc/
+sudo mv sugar-candy.tar.xz /usr/share/sddm/themes/
+cd
