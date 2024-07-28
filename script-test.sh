@@ -18,4 +18,6 @@ mv -f .bashrc ~/
 cd ~/Downloads/
 sudo mv -f sddm.conf /etc/
 sudo mv sugar-candy.tar.xz /usr/share/sddm/themes/
+cd /usr/share/sddm/themes/
+sudo tar -xf sugar-candy.tar.xz
 cd
